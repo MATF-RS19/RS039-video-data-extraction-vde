@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CaptureForm.ui.qml</file>
+        <file>LibraryForm.ui.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>capture.png</file>
+    </qresource>
+</RCC>
